@@ -437,6 +437,7 @@ body, html, button, a, p, span {
 }
 
 .margin-footer {
-  width: 80%;
+  width: 100%;
   margin: auto;
+ margin-bottom: 0px !important;
 }
